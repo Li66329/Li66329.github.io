@@ -58,3 +58,8 @@ header .pic {
     display: flex;
     justify-content: space-between;
 }
+.time {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
