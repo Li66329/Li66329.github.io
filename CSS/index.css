@@ -48,7 +48,7 @@ header h2 {
 header .pic {
     width: 125px;
     height: 165px;
-    background:url(imges/my.jpg) no-repeat top/cover;
+    background:url(./imges/my.jpg) no-repeat top/cover;
     position: absolute;
     right: 10px;
     top: 5px;
