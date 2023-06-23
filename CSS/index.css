@@ -58,6 +58,7 @@ header .pic {
     display: flex;
     justify-content: space-between;
 }
+/* 更新时间 */
 .time {
   position: absolute;
   bottom: 0;
